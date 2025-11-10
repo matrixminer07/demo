@@ -1,2 +1,3 @@
 # demo
-this is a sample repo
+this is a sample repo,
+Author-Spandan Roy
